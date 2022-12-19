@@ -37,6 +37,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Programación segura | 12/12/2022 | 30/12/2022 | 16 | AFIP |
 | Género y DDHH | 05/09/2022 | 23/09/2022 | 20 | AFIP |
 | Capacitación en Ambiente. Ley Yolanda (27.592) | 30/06/2022 | 27/07/2022 | 20 | INAP |
 | Comunicación escrita clara | 13/12/2021 | 23/12/2021 | 10 | AFIP |
@@ -225,7 +226,7 @@
 | -- | -- | -- | -- | -- | -- | -- |
 | UB | 07/2022 | | Tesina | Comparación de herramientas de Accesibilidad Web | Matias Dotta | |
 | UB | 07/2022 | | Tesina | Accesibilidad Web CI/DI | Lucas Izzi | |
-| UADE | 04/2022 | | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | |
+| UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
 | UNO | 07/2022 | | Tesina | ??? | Martin Ivaldi | |
 | UADE | 08/2022 | 11/2021 | Tesis Mag TIC | Software de Accesibilidad Web | Lic. Sebastián Morgado | 8 (ocho) |
