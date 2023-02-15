@@ -37,6 +37,8 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Programación Web | 01/02/2023 | 13/02/2023 | 40 | Plataforma de Aprendizaje Virtual |
+| Automatización de Pruebas | 01/12/2022 | 20/12/2022 | 16 | AFIP |
 | Programación segura | 12/12/2022 | 30/12/2022 | 16 | AFIP |
 | Género y DDHH | 05/09/2022 | 23/09/2022 | 20 | AFIP |
 | Capacitación en Ambiente. Ley Yolanda (27.592) | 30/06/2022 | 27/07/2022 | 20 | INAP |
