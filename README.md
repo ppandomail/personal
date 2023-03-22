@@ -157,9 +157,9 @@
 
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Materias** |
 | -- | -- | -- | -- | -- |
-| Profesor Adjunto | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li></ul> |
+| Profesor Asociado Ordinario | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li></ul> |
 | Profesor Asociado Ordinario | UADE | 08/2017 | | <ul><li>**Teoría de la Computación**</li><li>Base de Datos I</li><li>Programación 3</li></ul> |
-| Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Lenguajes Formales**</li></ul> |
+| Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Programación Web I**</li><li>**Lenguajes Formales**</li></ul> |
 | Profesor Adjunto 1 | UB | 07/2012 | | <ul><li>**Programación III**</li><li>**Lenguajes Programación**</li><li>**Prácticas de Laboratorio**</li><li>Diseño de Compiladores</li><li>Algoritmos y Complejidad</li><li>Autómatas y Lenguajes Formales</li></ul> |
 | Profesor Asociado | FASTA | 07/2011 | 02/2012 | <ul><li>Informática Teórica</li></ul> |
 | Profesor Asociado | UAJFK | 04/2001 | 03/2015 | <ul><li>Compiladores e Intérpretes</li><li>Estructura de Datos II y III</li><li>Lenguajes de Programación II, III, IV y V</li></ul> |
@@ -228,9 +228,9 @@
 | -- | -- | -- | -- | -- | -- | -- |
 | UB | 07/2022 | | Tesina | Comparación de herramientas de Accesibilidad Web | Matias Dotta | |
 | UB | 07/2022 | | Tesina | Accesibilidad Web CI/DI | Lucas Izzi | |
-| UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | |
+| UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | 10 (diez) |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
-| UNO | 07/2022 | | Tesina | ??? | Martin Ivaldi | |
+| UNO | 07/2022 | | Tesina | Accesibilidad Web con Pa11y | Martin Ivaldi | |
 | UADE | 08/2022 | 11/2021 | Tesis Mag TIC | Software de Accesibilidad Web | Lic. Sebastián Morgado | 8 (ocho) |
 | UB | 10/2019 | 10/2021 | Tesina | Análisis comparativo entre PySpark y Pandas para el procesamiento de datos masivos | Eliseo Moreno Villa | 9 (nueve) |
 | UADE | 03/2019 | 12/2019 | Tesina | Plataforma social de ayuda para personas en situación de calle | Jesica Halife y Federico Potilinski | 10 (diez) |
