@@ -227,8 +227,7 @@
 
 | **Universidad** | **F. Inicio** | **F. Fin** | **Tipo** | **Título** | **Autor** | **Calificación** |
 | -- | -- | -- | -- | -- | -- | -- |
-| UB | 07/2022 | | Tesina | Comparación de herramientas de Accesibilidad Web | Matias Dotta | |
-| UB | 07/2022 | | Tesina | Accesibilidad Web CI/DI | Lucas Izzi | |
+| UNO | 01/2023 | | Tesina | Automatización de WebComponents con Angular: Un enfoque eficiente para el desarrollo Front-End | Facundo Maldonado | |
 | UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | 10 (diez) |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
 | UNO | 07/2022 | | Tesina | Accesibilidad Web con Pa11y | Martin Ivaldi | |
