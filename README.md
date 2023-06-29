@@ -37,6 +37,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Código de Ética de la AFIP | 21/06/2023 | 27/06/2023 | 3 | AFIP |
 | Programación Web | 01/02/2023 | 13/02/2023 | 40 | Plataforma de Aprendizaje Virtual |
 | Automatización de Pruebas | 01/12/2022 | 20/12/2022 | 16 | AFIP |
 | Programación segura | 12/12/2022 | 30/12/2022 | 16 | AFIP |
