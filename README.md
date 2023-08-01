@@ -37,6 +37,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Entrenamiento en Brightspace | 18/07/2023 | 01/08/2023 | 12 | UADE |
 | Educación a distancia | 11/07/2023 | 17/07/2023 | 8 | UADE |
 | Código de Ética de la AFIP | 21/06/2023 | 27/06/2023 | 3 | AFIP |
 | Programación Web | 01/02/2023 | 13/02/2023 | 40 | Plataforma de Aprendizaje Virtual |
