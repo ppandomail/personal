@@ -40,6 +40,7 @@
 | Entrenamiento en Brightspace | 18/07/2023 | 01/08/2023 | 12 | UADE |
 | Educación a distancia | 11/07/2023 | 17/07/2023 | 8 | UADE |
 | Código de Ética de la AFIP | 21/06/2023 | 27/06/2023 | 3 | AFIP |
+| Herramientas de Ingeniería de Software basadas en Análisis de Código Fuente | 28/02/2023 | 18/04/2023 | 18 | UNO |
 | Programación Web | 01/02/2023 | 13/02/2023 | 40 | Plataforma de Aprendizaje Virtual |
 | Automatización de Pruebas | 01/12/2022 | 20/12/2022 | 16 | AFIP |
 | Programación segura | 12/12/2022 | 30/12/2022 | 16 | AFIP |
@@ -232,7 +233,7 @@
 | UNO | 01/2023 | | Tesina | Automatización de WebComponents con Angular: Un enfoque eficiente para el desarrollo Front-End | Facundo Maldonado | |
 | UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | 10 (diez) |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
-| UNO | 07/2022 | | Tesina | Accesibilidad Web con Pa11y | Martin Ivaldi | |
+| UNO | 07/2022 | | Tesina | Arga11y: Automatización de evaluación de accesibilidad web según legislación Argentina | Martin Ivaldi | |
 | UADE | 08/2022 | 11/2021 | Tesis Mag TIC | Software de Accesibilidad Web | Lic. Sebastián Morgado | 8 (ocho) |
 | UB | 10/2019 | 10/2021 | Tesina | Análisis comparativo entre PySpark y Pandas para el procesamiento de datos masivos | Eliseo Moreno Villa | 9 (nueve) |
 | UADE | 03/2019 | 12/2019 | Tesina | Plataforma social de ayuda para personas en situación de calle | Jesica Halife y Federico Potilinski | 10 (diez) |
