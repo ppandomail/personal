@@ -37,6 +37,8 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Cohecho internacional | 27/11/2023 | 08/12/2023 | 10 | AFIP |
+| Accesibilidad y usabilidad web: conceptos generales | 13/11/2023 | 21/11/2023 | 5 | AFIP |
 | Entrenamiento en Brightspace | 18/07/2023 | 01/08/2023 | 12 | UADE |
 | Educación a distancia | 11/07/2023 | 17/07/2023 | 8 | UADE |
 | Código de Ética de la AFIP | 21/06/2023 | 27/06/2023 | 3 | AFIP |
@@ -186,7 +188,7 @@
 
 | **Universidad** | **F. Inicio** | **F. Fin** | **Rol** | **Título** |
 | -- | -- | -- | -- | -- |
-| UADE | 04/2022 | | Director | Accesibilidad Web - ARWeb 4 |
+| UADE | 04/2022 | 12/2023 | Director | Accesibilidad Web - ARWeb 4 |
 | UNO | 09/2020 | 09/2021 | Director | Herramienta de Accesibilidad Web |
 | UADE | 04/2018 | 11/2019 | Investigador | Servicio de Accesibilidad Web (ARWebSrv). Dir. Dr. Ricardo Orozco |
 | UNO | 06/2018 | 06/2019 | Director | Optimización del Sistema de Señalización luminosa actual |
