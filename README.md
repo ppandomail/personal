@@ -37,6 +37,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Oratoria. Estrategias, técnicas y herramientas prácticas | 11/12/2023 | 18/12/2023 | 6 | AFIP |
 | Cohecho internacional | 27/11/2023 | 08/12/2023 | 10 | AFIP |
 | Accesibilidad y usabilidad web: conceptos generales | 13/11/2023 | 21/11/2023 | 5 | AFIP |
 | Entrenamiento en Brightspace | 18/07/2023 | 01/08/2023 | 12 | UADE |
