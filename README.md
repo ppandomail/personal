@@ -37,6 +37,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Gestión de la información. Recomendaciones | 13/03/2024 | 20/03/2024 | 8 | AFIP |
 | Oratoria. Estrategias, técnicas y herramientas prácticas | 11/12/2023 | 18/12/2023 | 6 | AFIP |
 | Cohecho internacional | 27/11/2023 | 08/12/2023 | 10 | AFIP |
 | Accesibilidad y usabilidad web: conceptos generales | 13/11/2023 | 21/11/2023 | 5 | AFIP |
