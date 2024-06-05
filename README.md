@@ -139,7 +139,7 @@
 * Herramientas DevOps (Docker, Kubernetes, OpenShift, Jenkins)
 * Herramientas de Gestión de Aprendizaje: Moodle, Teams, Google Classroom
 * Herramientas de Videoconferencias o reuniones virtuales: Zoom, Google Meet
-* Idiomas: inglés (lectura y comprensión) y portugués (avanzado, nivel 8 en Casa do Brasil)
+* Idiomas: inglés (lectura y comprensión) y portugués (avanzado, nivel 8 en Casa do Brasil y Mistura brasileira)
 
 <br>
 <br>
@@ -166,7 +166,8 @@
 
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Materias** |
 | -- | -- | -- | -- | -- |
-| Profesor Asociado Ordinario | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li></ul> |
+| Profesor Posgrado Cs. de Datos | UNO | 08/2024 | | <ul><li>**Fundamentos de Programación**</li></ul> |
+| Profesor Asociado Ordinario | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li><li>**Teoría de la Computación**</li></ul> |
 | Profesor Asociado Ordinario | UADE | 08/2017 | | <ul><li>**Teoría de la Computación**</li><li>Base de Datos I</li><li>Programación 3</li></ul> |
 | Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Programación Web I y II**</li><li>**Lenguajes Formales**</li></ul> |
 | Profesor Adjunto 1 | UB | 07/2012 | | <ul><li>**Programación III**</li><li>**Lenguajes Programación**</li><li>**Prácticas de Laboratorio**</li><li>Diseño de Compiladores</li><li>Algoritmos y Complejidad</li><li>Autómatas y Lenguajes Formales</li></ul> |
@@ -254,6 +255,7 @@
 
 | **Universidad** | **Fecha** | **Tipo** | **Titulo** | **Autor** |
 | -- | -- | -- | -- | -- |
+| UNO | 06/2024 | Tesina | Protección de historias clínicas electrónicas en Argentina: una guía de ciberseguridad | Pablo Hernan Rechimon |
 | UB | 08/2022 | Tesina | Diseño, implementación y evaluación MyFEPS de un modelo de Business Intelligence para empresas Pymes | Ignacio Duplaa |
 | UB | 08/2022 | Tesina | Tendencias tecnológicas de redes empresariales definidas por Software | Gabriel Fernández Crocco |
 | UADE | 07/2020 | Tesis Mag TIC | Accesibilidad Web en Sitios Argentinos | Carlos Godoy |
