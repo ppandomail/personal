@@ -166,7 +166,6 @@
 
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Materias** |
 | -- | -- | -- | -- | -- |
-| Profesor Posgrado Cs. de Datos | UNO | 08/2024 | | <ul><li>**Fundamentos de Programación**</li></ul> |
 | Profesor Asociado Ordinario | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li><li>**Teoría de la Computación**</li></ul> |
 | Profesor Asociado Ordinario | UADE | 08/2017 | | <ul><li>**Teoría de la Computación**</li><li>Base de Datos I</li><li>Programación 3</li></ul> |
 | Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Programación Web I y II**</li><li>**Lenguajes Formales**</li></ul> |
