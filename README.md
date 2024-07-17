@@ -23,12 +23,12 @@
 
 | **Nivel** | **Institución** | **F. Inicio** | **F. Fin** | **Título** |
 | -- | -- | -- | -- | -- |
-| Univ. Posgrado | UNSAM | 08/2019 | 12/2020 | **Especialista en Gestión de la Tecnología y la Innovación** |
-| Univ. Posgrado | UADE | 03/2015 | 11/2017 | **Magíster en Tecnología Informática y Comunicaciones** |
-| Univ. Posgrado | UAJFK | 03/2008 | 12/2009 | **Profesor Universitario en Ingeniería en Informática** |
-| Univ. Grado | U. Morón | 03/1995 | 12/2004 | **Ingeniero en Informática** |
-| Medio | IESM | 03/1989 | 12/1993 | **Comercial** |
-| Básico | Esc. N° 100 | 03/1982 | 12/1988 | **Primario** |
+| Univ. Posgrado | UNSAM       | 08/2019 | 12/2020 | **Especialista en Gestión de la Tecnología y la Innovación** |
+| Univ. Posgrado | UADE        | 03/2015 | 11/2017 | **Magíster en Tecnología Informática y Comunicaciones** |
+| Univ. Posgrado | UAJFK       | 03/2008 | 12/2009 | **Profesor Universitario en Ingeniería en Informática** |
+| Univ. Grado    | U. Morón    | 03/1995 | 12/2004 | **Ingeniero en Informática** |
+| Medio          | IESM        | 03/1989 | 12/1993 | **Comercial** |
+| Básico         | Esc. N° 100 | 03/1982 | 12/1988 | **Primario** |
 
 <br>
 <br>
@@ -37,6 +37,9 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Diseño centrado en el usuario. Recomendaciones | 15/07/2024 | 22/07/2024 | 6 | AFIP |
+| Desarrollo de software: Lineamientos y metodologías | 08/07/2024 | 12/07/2024 | 6 | AFIP |
+| Instructor y tutor virtual: Aproximación al rol | 08/07/2024 | 12/07/2024 | 3 | AFIP |
 | Automatización de pruebas | 25/06/2024 | 27/06/2024 | 6 | AFIP |
 | Phishing: no se dejen engañar | 30/05/2024 | 06/06/2024 | 8 | AFIP |
 | Gestión de la información. Recomendaciones | 13/03/2024 | 20/03/2024 | 8 | AFIP |
@@ -128,10 +131,10 @@
 * Programación Objetos (Smalltalk, C++, Java, Groovy, Python, Kotlin)
 * Programación Lógica (Prolog)
 * Programación Funcional (LISP, Haskell)
-* Programación Web (HTML5, CSS3, JavaScript, Vue, Angular, Framework Spring Boot)
+* Programación Web (HTML5, CSS3, JavaScript, Vue, Angular, Framework Spring Boot, Express)
 * Programación Estadística y Generación de Gráficos (Lenguaje R)
 * Testing (Frameworks: JUnit, Mockito, Selenium, Cypress, unittest, pytest, kotest, Behave, Gherkin)
-* Base de datos (Oracle, SQL Server, SQLite)
+* Base de datos (Oracle, SQL Server, SQLite, MongoDB)
 * Sistemas Operativos (Microsoft Windows, MacOS, GNU/Linux)
 * Herramientas Ofimáticas
 * Herramientas Case (Rational Rose Enterprise, Enterprise Architect)
@@ -168,9 +171,9 @@
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Materias** |
 | -- | -- | -- | -- | -- |
 | Profesor Asociado Ordinario | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li><li>**Teoría de la Computación**</li></ul> |
-| Profesor Asociado Ordinario | UADE | 08/2017 | | <ul><li>**Teoría de la Computación**</li><li>Base de Datos I</li><li>Programación 3</li></ul> |
-| Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Programación Web I y II**</li><li>**Lenguajes Formales**</li></ul> |
-| Profesor Adjunto 1 | UB | 07/2012 | | <ul><li>**Programación III**</li><li>**Lenguajes Programación**</li><li>**Prácticas de Laboratorio**</li><li>Diseño de Compiladores</li><li>Algoritmos y Complejidad</li><li>Autómatas y Lenguajes Formales</li></ul> |
+| Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Programación Web I y II**</li><li>**Lenguajes Formales**</li><li>**Taller de Lenguajes**</li></ul> |
+| Profesor Asociado Ordinario | UADE | 08/2017 | 03/2024 | <ul><li>Teoría de la Computación</li><li>Base de Datos</li><li>Programación 3</li></ul> |
+| Profesor Adjunto 1 | UB | 07/2012 | 07/2023 | <ul><li>Programación III</li><li>Lenguajes Programación</li><li>Prácticas de Laboratorio</li><li>Diseño de Compiladores</li><li>Algoritmos y Complejidad</li><li>Autómatas y Lenguajes Formales</li></ul> |
 | Profesor Asociado | FASTA | 07/2011 | 02/2012 | <ul><li>Informática Teórica</li></ul> |
 | Profesor Asociado | UAJFK | 04/2001 | 03/2015 | <ul><li>Compiladores e Intérpretes</li><li>Estructura de Datos II y III</li><li>Lenguajes de Programación II, III, IV y V</li></ul> |
 | J.T.P. | UM | 11/1999 | 07/2005 | <ul><li>Informática Aplicada</li><li>Informática I y II</li><li>Introducción a la Informática</li><li>Informática Aplicada al Diseño I</li><li>Sistemas de Computación</li><li>Laboratorio de Computación</li><li>Organizaciones Empresarias</li><li>Circuitos y Sistemas Digitales</li></ul> |
@@ -236,7 +239,7 @@
 
 | **Universidad** | **F. Inicio** | **F. Fin** | **Tipo** | **Título** | **Autor** | **Calificación** |
 | -- | -- | -- | -- | -- | -- | -- |
-| UNAHUR | 01/2024 | | Tesina | AccesiWeb: Herramienta para evaluar la AW según la Ley Argentina | Joaquín Pettinari | |
+| UNAHUR | 01/2024 | 08/2024 | Tesina | AccesiWeb: Herramienta para evaluar la AW según la Ley Argentina | Joaquín Pettinari | |
 | UNO | 01/2023 | 12/2023 | Tesina | Automatización de WebComponents con Angular: Un enfoque eficiente para el desarrollo Front-End | Facundo Maldonado | 10 (diez) |
 | UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | 10 (diez) |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
@@ -255,7 +258,7 @@
 
 | **Universidad** | **Fecha** | **Tipo** | **Titulo** | **Autor** |
 | -- | -- | -- | -- | -- |
-| UNO | 06/2024 | Tesina | Protección de historias clínicas electrónicas en Argentina: una guía de ciberseguridad | Pablo Hernan Rechimon |
+| UNO | 07/2024 | Tesina | Protección de historias clínicas electrónicas en Argentina: una guía de ciberseguridad | Pablo Hernan Rechimon |
 | UB | 08/2022 | Tesina | Diseño, implementación y evaluación MyFEPS de un modelo de Business Intelligence para empresas Pymes | Ignacio Duplaa |
 | UB | 08/2022 | Tesina | Tendencias tecnológicas de redes empresariales definidas por Software | Gabriel Fernández Crocco |
 | UADE | 07/2020 | Tesis Mag TIC | Accesibilidad Web en Sitios Argentinos | Carlos Godoy |
