@@ -5,7 +5,9 @@
 </tr>
 </table>
 
-* **Domicilio**: Malabia 2461 PB 4, C.A.B.A. (1425)
+* **Domicilios**:
+  * Malabia 2461 PB 4, C.A.B.A. (1425)
+  * Las Marias 1 985, Bº Las Marias, Capilla del Señor, Exaltación de la Cruz, Bs. As. (2812)
 * **Celular**: 11-59817493
 * **Email**: ppandomail@gmail.com
 * **DNI**: 24862699
@@ -37,6 +39,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Estadística. Investigación y gestión del riesgo | 19/08/2024 | 30/08/2024 | 10 | AFIP |
 | Diseño centrado en el usuario. Recomendaciones | 15/07/2024 | 22/07/2024 | 6 | AFIP |
 | Desarrollo de software: Lineamientos y metodologías | 08/07/2024 | 12/07/2024 | 6 | AFIP |
 | Instructor y tutor virtual: Aproximación al rol | 08/07/2024 | 12/07/2024 | 3 | AFIP |
@@ -170,6 +173,7 @@
 
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Materias** |
 | -- | -- | -- | -- | -- |
+| Profesor Adjunto | UNSADA | 07/2024 | |  <ul><li>**Base de Datos**</li></ul> |
 | Profesor Asociado Ordinario | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li><li>**Teoría de la Computación**</li></ul> |
 | Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Programación Web I y II**</li><li>**Lenguajes Formales**</li><li>**Taller de Lenguajes**</li></ul> |
 | Profesor Asociado Ordinario | UADE | 08/2017 | 03/2024 | <ul><li>Teoría de la Computación</li><li>Base de Datos</li><li>Programación 3</li></ul> |
@@ -239,7 +243,7 @@
 
 | **Universidad** | **F. Inicio** | **F. Fin** | **Tipo** | **Título** | **Autor** | **Calificación** |
 | -- | -- | -- | -- | -- | -- | -- |
-| UNAHUR | 01/2024 | 08/2024 | Tesina | AccesiWeb: Herramienta para evaluar la AW según la Ley Argentina | Joaquín Pettinari | |
+| UNAHUR | 01/2024 | 08/2024 | Tesina | AccesiWeb: Herramienta para evaluar la AW según la Ley Argentina | Joaquín Pettinari | 10 (diez) |
 | UNO | 01/2023 | 12/2023 | Tesina | Automatización de WebComponents con Angular: Un enfoque eficiente para el desarrollo Front-End | Facundo Maldonado | 10 (diez) |
 | UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | 10 (diez) |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
