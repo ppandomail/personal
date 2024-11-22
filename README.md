@@ -25,9 +25,10 @@
 
 | **Nivel** | **Institución** | **F. Inicio** | **F. Fin** | **Título** |
 | -- | -- | -- | -- | -- |
+| Univ. Posgrado | UNO         | 03/2025 |         | **Especialista en Ciencia de Datos** |
 | Univ. Posgrado | UNSAM       | 08/2019 | 12/2020 | **Especialista en Gestión de la Tecnología y la Innovación** |
 | Univ. Posgrado | UADE        | 03/2015 | 11/2017 | **Magíster en Tecnología Informática y Comunicaciones** |
-| Univ. Posgrado | UAJFK       | 03/2008 | 12/2009 | **Profesor Universitario en Ingeniería en Informática** |
+| Univ. Posgrado | U. Kennedy  | 03/2008 | 12/2009 | **Profesor Universitario en Ingeniería en Informática** |
 | Univ. Grado    | U. Morón    | 03/1995 | 12/2004 | **Ingeniero en Informática** |
 | Medio          | IESM        | 03/1989 | 12/1993 | **Comercial** |
 | Básico         | Esc. N° 100 | 03/1982 | 12/1988 | **Primario** |
@@ -155,7 +156,7 @@
 
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Tareas** |
 | -- | -- | -- | -- | -- |
-| Especialista en automatización de pruebas | AFIP SDG SIT | 09/2021 | | <ul><li>Desarrollar tests automáticos para aplicaciones de AFIP</li><li>Evaluación de Tecnologías</li><li>Construcción de Herramientas</li><li>Capacitación de Equipos</li></ul> |
+| Especialista en automatización de pruebas | ARCA (ex AFIP)  | 09/2021 | | <ul><li>Desarrollar tests automáticos para aplicaciones de AFIP</li><li>Evaluación de Tecnologías</li><li>Construcción de Herramientas</li><li>Capacitación de Equipos</li></ul> |
 | Responsable de Testing Automático | MHAC - DGSIAF | 01/2018 | 08/2021 | <ul><li>Definir alcance y estrategia de las pruebas automáticas</li><li>Definir y documentar procesos y metodologías relacionadas con el sector</li><li>Aplicar metodología ágil (scrum) para planificar tareas</li><li>QA sobre el código escrito por los integrantes del equipo</li><li>Asistencia técnica</li><li>Capacitación de equipos</li></ul> |
 | Desarrollador de Tests Automáticos | MHAC - DGSIAF | 01/2009 | 12/2017 | <ul><li>Desarrollar tests automáticos de funcionalidad transversal</li><li>Realizar mantenimiento de los scripts (PL/SQL) de automatización y de las acciones de usuario sobre las componentes gráficas</li><li>Extender la funcionalidad del framework JUnit</li><li>Ajustar la funcionalidad de la herramienta WindowTester</li></ul> |
 | Desarrollador de Tests Automáticos | INVAP S.E. | 2011 | 2012 | <ul><li>Evaluar Resultados (telemetría) de Ejecución de telecomandos desde tierra tomados de la base de datos "SatDB"</li><li>Desarrollar tests automáticos de los subsistemas que integran el sistema de software de vuelo (flight software) del satélite ARSAT-1</li></ul> |
@@ -188,7 +189,7 @@
 
 ## Cargos de I+D
 
-* Miembro Comisión de Carrera de Tecnicatura y Licenciatura en Informática (desde 2021)
+* Miembro Comisión de Carrera de Tecnicatura y Licenciatura en Informática UNAHUR (desde 2021)
 * Miembro Comisión de Tesis UB y UADE (desde 2020)
 * Categoria docente investigador: Categoría IV (desde 2019)
 
@@ -247,7 +248,7 @@
 | UNO | 01/2023 | 12/2023 | Tesina | Automatización de WebComponents con Angular: Un enfoque eficiente para el desarrollo Front-End | Facundo Maldonado | 10 (diez) |
 | UADE | 04/2022 | 12/2022 | Tesina | WCARG - WCAG Argentina | Gonzalo Fuentes y Rodrigo Lema | 10 (diez) |
 | UB | 01/2022 | 08/2022 | Tesina | Comparando el análisis exploratorio de datos en R y Python para vacunas de COVID-19 aplicadas en Argentina | Ignacio Castronuovo | 9 (nueve) |
-| UNO | 07/2022 | | Tesina | Arga11y: Automatización de evaluación de accesibilidad web según legislación Argentina | Martin Ivaldi | |
+| UNO | 07/2022 | | Tesina | Arga11y: Automatización de evaluación de accesibilidad web según legislación Argentina | Martin Ivaldi | 10 (diez) |
 | UADE | 08/2022 | 11/2021 | Tesis Mag TIC | Software de Accesibilidad Web | Lic. Sebastián Morgado | 8 (ocho) |
 | UB | 10/2019 | 10/2021 | Tesina | Análisis comparativo entre PySpark y Pandas para el procesamiento de datos masivos | Eliseo Moreno Villa | 9 (nueve) |
 | UADE | 03/2019 | 12/2019 | Tesina | Plataforma social de ayuda para personas en situación de calle | Jesica Halife y Federico Potilinski | 10 (diez) |
