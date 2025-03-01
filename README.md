@@ -261,8 +261,9 @@
 
 ### Jurado
 
-| **Universidad** | **Fecha** | **Tipo** | **Titulo** | **Autor** |
+| **Universidad** | **Fecha** | **Tipo** | **Temática** | **Autores/Postulantes** |
 | -- | -- | -- | -- | -- |
+| UNAHUR | 02/2025 | Concurso Docente | Inteligencia Artificial | {Matias Cisnero, Anahí Duarte} |
 | UNO | 07/2024 | Tesina | Protección de historias clínicas electrónicas en Argentina: una guía de ciberseguridad | Pablo Hernan Rechimon |
 | UB | 08/2022 | Tesina | Diseño, implementación y evaluación MyFEPS de un modelo de Business Intelligence para empresas Pymes | Ignacio Duplaa |
 | UB | 08/2022 | Tesina | Tendencias tecnológicas de redes empresariales definidas por Software | Gabriel Fernández Crocco |

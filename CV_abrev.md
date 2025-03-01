@@ -24,6 +24,7 @@
 
 | **Nivel** | **Institución** | **F. Inicio** | **F. Fin** | **Título** |
 | -- | -- | -- | -- | -- |
+| Univ. Posgrado | UNO         | 03/2025 |         | **Especialista en Ciencia de Datos** |
 | Univ. Posgrado | UNSAM       | 08/2019 | 12/2020 | **Especialista en Gestión de la Tecnología y la Innovación** |
 | Univ. Posgrado | UADE        | 03/2015 | 11/2017 | **Magíster en Tecnología Informática y Comunicaciones** |
 | Univ. Posgrado | U. Kennedy  | 03/2008 | 12/2009 | **Profesor Universitario en Ingeniería en Informática** |
