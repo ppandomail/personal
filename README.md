@@ -40,6 +40,7 @@
 
 | **Curso** | **F. Inicio** | **F. Fin** | **Hs.** | **Institución** |
 | -- | -- | -- | -- | -- |
+| Pautas para servicios críticos. Administrador Local | 05/03/2025 | 28/03/2025 | 1 | ARCA |
 | Estadística. Investigación y gestión del riesgo | 19/08/2024 | 30/08/2024 | 10 | AFIP |
 | Diseño centrado en el usuario. Recomendaciones | 15/07/2024 | 22/07/2024 | 6 | AFIP |
 | Desarrollo de software: Lineamientos y metodologías | 08/07/2024 | 12/07/2024 | 6 | AFIP |
